@@ -9,7 +9,7 @@ Over the past decade, **bicycle-sharing** systems have been growing in *number* 
 
 Thanks to the rise in information technologies, it is easy for a user of the system to access a dock within the system to unlock or return bicycles. These technologies also provide a wealth of data that can be used to explore how these bike-sharing systems are used.
 
-In this project, you will use data provided by [Motivate](https://www.motivateco.com/), a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
+In this project, you will use data provided by [Motivate](https://www.motivateco.com/), a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You will compare the system usage between three large cities: _Chicago_, _New York City_, and _Washington_, DC.
 
 ### Description
 In this project, we want to analyse the bikeshare data collected from three major cities; Chicago, Washington, and New York.
